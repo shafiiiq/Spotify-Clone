@@ -1,0 +1,18 @@
+.Library {
+    width: 100%;
+    gap: 1rem;
+}
+
+.playlists-item {
+    min-height: 4.7rem;
+    max-height: 4.7rem;
+}
+
+.playlists-item:hover {
+    background-color: rgb(26, 26, 26);
+}
+
+.library-icon {
+    height: 4rem;
+    width: 4rem;
+}

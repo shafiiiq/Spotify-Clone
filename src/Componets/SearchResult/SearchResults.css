@@ -1,0 +1,13 @@
+.SearchResults {
+    height: 100%;
+    width: 55%;
+}
+
+.search-results-li {
+    width: fit-content;
+    height: 2.6rem;
+}
+
+.search-results-scroll-wrapper {
+    max-height: calc(100% + 1.5rem);
+}

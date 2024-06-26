@@ -1,0 +1,302 @@
+{
+    "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4/playlists?offset=0&limit=100",
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 7,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4RTzDnlqnFEwpEqxJMrDYc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4RTzDnlqnFEwpEqxJMrDYc",
+            "id": "4RTzDnlqnFEwpEqxJMrDYc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ad45238227f85398f1ba672c",
+                    "width": null
+                }
+            ],
+            "name": "Night",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAjo5qCLdxgSNYxhJSkLfX9UVQjfK",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4RTzDnlqnFEwpEqxJMrDYc/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4RTzDnlqnFEwpEqxJMrDYc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0NFTUX2rdA0Sj9MUh8POZb"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0NFTUX2rdA0Sj9MUh8POZb",
+            "id": "0NFTUX2rdA0Sj9MUh8POZb",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0257801ac9491abfb02ec2b00a",
+                    "width": null
+                }
+            ],
+            "name": "Toor",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAhMj6U+C/wEbY+8ikXORGfffvf1L",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0NFTUX2rdA0Sj9MUh8POZb/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0NFTUX2rdA0Sj9MUh8POZb"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6RWJL7o0MTeMKW7Yy69ORN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6RWJL7o0MTeMKW7Yy69ORN",
+            "id": "6RWJL7o0MTeMKW7Yy69ORN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e027acee948ecac8380c1b6ce30ab67616d00001e027dd3ba455ee3390cb55b0192ab67616d00001e02e787cffec20aa2a396a61647ab67616d00001e02e85259a1cae29a8d91f2093d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e027acee948ecac8380c1b6ce30ab67616d00001e027dd3ba455ee3390cb55b0192ab67616d00001e02e787cffec20aa2a396a61647ab67616d00001e02e85259a1cae29a8d91f2093d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e027acee948ecac8380c1b6ce30ab67616d00001e027dd3ba455ee3390cb55b0192ab67616d00001e02e787cffec20aa2a396a61647ab67616d00001e02e85259a1cae29a8d91f2093d",
+                    "width": 60
+                }
+            ],
+            "name": "My playlist #5",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAoOQqGLoW8gJnHnMcDeRU9aqBjff",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6RWJL7o0MTeMKW7Yy69ORN/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6RWJL7o0MTeMKW7Yy69ORN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3BmCTmZctE9X2zA9MkNidh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3BmCTmZctE9X2zA9MkNidh",
+            "id": "3BmCTmZctE9X2zA9MkNidh",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bdfa2bc80043ce7e57976060",
+                    "width": null
+                }
+            ],
+            "name": "madH",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA+rSRQVviAxc92jVD3AC5pzXVt+K",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3BmCTmZctE9X2zA9MkNidh/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3BmCTmZctE9X2zA9MkNidh"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5nMjQX8LpMc6vLVCvn53uy"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5nMjQX8LpMc6vLVCvn53uy",
+            "id": "5nMjQX8LpMc6vLVCvn53uy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020558408c2f44e22c04dcdae1ab67616d00001e022dc482cd648b84f7687f38fdab67616d00001e023b814142d7de61ea7e4553ccab67616d00001e02f9f1b5c48b95087600a178b7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020558408c2f44e22c04dcdae1ab67616d00001e022dc482cd648b84f7687f38fdab67616d00001e023b814142d7de61ea7e4553ccab67616d00001e02f9f1b5c48b95087600a178b7",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020558408c2f44e22c04dcdae1ab67616d00001e022dc482cd648b84f7687f38fdab67616d00001e023b814142d7de61ea7e4553ccab67616d00001e02f9f1b5c48b95087600a178b7",
+                    "width": 60
+                }
+            ],
+            "name": "My playlist #3",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAi4SuS8Ez0LOI2fFYjp/GtLsgFP5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5nMjQX8LpMc6vLVCvn53uy/tracks",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5nMjQX8LpMc6vLVCvn53uy"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7yqKS3xvScj3LhN46ps7jr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7yqKS3xvScj3LhN46ps7jr",
+            "id": "7yqKS3xvScj3LhN46ps7jr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020202cbaea1f62aafdd39628cab67616d00001e02382890707a6067da9905ab6bab67616d00001e02726d48d93d02e1271774f023ab67616d00001e027ce0130c09547c733984ba0e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020202cbaea1f62aafdd39628cab67616d00001e02382890707a6067da9905ab6bab67616d00001e02726d48d93d02e1271774f023ab67616d00001e027ce0130c09547c733984ba0e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020202cbaea1f62aafdd39628cab67616d00001e02382890707a6067da9905ab6bab67616d00001e02726d48d93d02e1271774f023ab67616d00001e027ce0130c09547c733984ba0e",
+                    "width": 60
+                }
+            ],
+            "name": "Music",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAKKFHOvzUl1us9cDsbKmlU+Yk9O3a",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7yqKS3xvScj3LhN46ps7jr/tracks",
+                "total": 35
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7yqKS3xvScj3LhN46ps7jr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1zinKVAXC0VHnrlnlDM1Jt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1zinKVAXC0VHnrlnlDM1Jt",
+            "id": "1zinKVAXC0VHnrlnlDM1Jt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e026d38100a94298f5ef76e12c5ab67616d00001e02a2ef89ae0f8d1848081c1449ab67616d00001e02c1cd18ce264a99c525dd88f5ab67616d00001e02e12b4ab222eb8085ef0e0059",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e026d38100a94298f5ef76e12c5ab67616d00001e02a2ef89ae0f8d1848081c1449ab67616d00001e02c1cd18ce264a99c525dd88f5ab67616d00001e02e12b4ab222eb8085ef0e0059",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e026d38100a94298f5ef76e12c5ab67616d00001e02a2ef89ae0f8d1848081c1449ab67616d00001e02c1cd18ce264a99c525dd88f5ab67616d00001e02e12b4ab222eb8085ef0e0059",
+                    "width": 60
+                }
+            ],
+            "name": "Lofi",
+            "owner": {
+                "display_name": "Muhammed Shafeek",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31q2bv54j4iegidrgzazvkewj3i4"
+                },
+                "href": "https://api.spotify.com/v1/users/31q2bv54j4iegidrgzazvkewj3i4",
+                "id": "31q2bv54j4iegidrgzazvkewj3i4",
+                "type": "user",
+                "uri": "spotify:user:31q2bv54j4iegidrgzazvkewj3i4"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAJn/A/nE2jWhfv5R+tFoS5WKvg0n6",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1zinKVAXC0VHnrlnlDM1Jt/tracks",
+                "total": 35
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1zinKVAXC0VHnrlnlDM1Jt"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+.BrowseResults {
+    height: 100%;
+    width: 55%;
+}
+
+.browse-results-li {
+    width: fit-content;
+    height: 2.6rem;
+}
+
+.browse-results-scroll-wrapper {
+    max-height: calc(100% + 1.5rem);
+}
+
+.song-img {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+.top-result-img {
+    height: 10rem;
+    width: 10rem;
+}
+
+.top-result-body {
+    background-color: rgb(18, 18, 18);
+}
+
+.top-result-body:hover {
+    background-color: rgb(24, 24, 24);
+}
+
+.songs-item {
+    padding-block: 0.8rem;
+}
+
+.songs-item:hover {
+    background-color: rgb(24, 24, 24);
+}
+
+.song-decription {
+    max-height: 1.4rem;
+    max-width: 30rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.top-title {
+    max-height: 3rem;
+    overflow: hidden;
+}

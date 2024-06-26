@@ -1,0 +1,17 @@
+.recomentation-item  {
+    width: 100%;
+    max-height: 22rem;
+}
+
+.recomendation-item:hover {
+    background-color: rgb(21, 21, 21);
+}
+
+.recomendation-img {
+    max-height: 12rem;
+    min-height: 12rem;
+}
+
+.recomentation-decription {
+   color: rgb(153, 150, 150);
+}

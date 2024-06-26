@@ -1,0 +1,62 @@
+.Header {
+    height: 5rem;
+}
+.header-left > .span-dot {
+    font-size: 40px;
+}
+
+.arrow span {
+    font-size: 30px;
+}
+
+.header-mid {
+    gap: 0.5rem;
+}
+
+.height {
+    height: 3.8rem;
+}
+
+.width {
+    width: 3.8rem;
+}
+
+.primary-clr {
+    background-color: var(--primary-color);
+}
+
+.home span {
+    font-size: 40px;
+}
+
+.search {
+    width: 36rem;
+}
+
+.search span {
+    font-size: 30px;
+}
+
+.search-icon {
+    left: 0.5rem;
+}
+
+.browse-icon {
+    right: 1rem;
+}
+
+.span span {
+    font-size: 30px;
+}
+
+.account {
+    padding: 0.5rem;
+}
+
+.account-clr {
+    background-color: pink;
+}
+
+.search input:focus {
+    border: 2px solid white;
+}

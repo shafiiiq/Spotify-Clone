@@ -1,0 +1,18 @@
+.Artist {
+    width: 100%;
+    gap: 1rem;
+}
+
+.artists-item {
+    min-height: 4.7rem;
+    max-height: 4.7rem;
+}
+
+.Artist:hover {
+    background-color: rgb(17, 17, 17);
+}
+
+.Artist-icon {
+    height: 4rem;
+    width: 4rem;
+}

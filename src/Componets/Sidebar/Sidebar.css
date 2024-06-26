@@ -1,0 +1,17 @@
+.Sidebar {
+    height: 100%;
+    width: 25%;
+}
+
+.sidebar-nav {
+    gap: 0.5rem;
+}
+
+.sidebar-nav>div {
+    height: 2.5rem;
+    width: fit-content;
+}
+
+.library {
+    max-height: calc(100% - 1px);
+}

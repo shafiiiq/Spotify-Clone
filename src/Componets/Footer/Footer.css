@@ -1,0 +1,18 @@
+.Footer {
+    height: 6.8rem;
+}
+
+.current-music {
+    width: fit-content;
+}
+
+.current-music-img {
+    height: 4.5rem;
+    width: 4.5rem;
+}
+
+.volume-up-down {
+    height: 6px;
+    width: 8rem;
+    background-color: white;
+}

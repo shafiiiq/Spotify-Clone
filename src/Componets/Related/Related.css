@@ -1,0 +1,30 @@
+.Related {
+    height: 100%;
+    width: 20%;
+}
+
+.related-body-wrapper {
+    max-height: calc(100% - 2.7rem);
+}
+
+.about-the-artist-in-ralated, .creadits, .next-in-queue {
+    background-color: rgb(21, 20, 20);
+}
+
+button {
+    height: 2.5rem;
+    background-color: transparent;
+    border: 2px solid rgb(103, 99, 99);
+    width: 6rem;
+    border-radius: 100vh;
+    color: white;
+}
+
+.artist-img-in-related {
+    height: 13rem;
+}
+
+.queue-music-img  {
+    height: 3.5rem;
+    width: 3.5rem;
+}
